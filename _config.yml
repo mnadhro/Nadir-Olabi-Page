@@ -6,11 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Nadir Olabi Page
+description: Nadir Olabi personal blog page, powered by GitHub and Fastpage
 github_username: mnadhro
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "mno_is_here_2"
+github_repo: "Nadir-Olabi-Page"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
@@ -34,11 +34,11 @@ url: "https://mnadhro.github.io" # the base hostname & protocol for your site, e
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/mno_is_here_2" # the subpath of your site, e.g. "/blog".
+baseurl: "/Nadir-Olabi-Page" # the subpath of your site, e.g. "/blog".
 
 # Email and twitter are optional:
 email: 
-twitter_username: "fastdotai"
+twitter_username: "mnadhro_"
 
 # Set this to true to get LaTeX math equation support
 use_math: 
